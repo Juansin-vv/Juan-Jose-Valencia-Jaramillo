@@ -6,8 +6,8 @@ Un poco sobre mi
 
 Me caracterizo por tener un enfoque lógico, creativo y autónomo, siempre en busca de mejorar mis habilidades y adaptarme a nuevas tecnologías.
 
-🛠 Tecnologías que estoy aprendiendo y usando
-HTML CSS Bootstrap JavaScript React Python Django MySQL Git GitHub
+🛠 Tecnologías que estoy aprendiendo y usando:
+HTML, CSS, Bootstrap, JavaScript, React, Python, Django, MySQL and Git GitHub
 
 🧠 Áreas de conocimiento
 
